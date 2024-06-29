@@ -115,3 +115,6 @@ result=generate_random_password(num_of_characters,use_upper,use_lower,use_symbol
 print(result)
 
 ```
+
+## Summary
+### This application generates a random password depending on user-specified criteria. It handles issues such as inadequate password length and exceeding the number of allowable unique characters. The generated password appears as the output.
